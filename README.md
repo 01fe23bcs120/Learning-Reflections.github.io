@@ -1,4 +1,4 @@
-# Learning-Reflections.github.io
+# Course Learning Reflections
 ## 1. Foundation
 -Time Complexity: How fast an algorithm runs.  
 -Space Complexity: Extra space the algorithm requires.   
