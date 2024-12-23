@@ -15,7 +15,7 @@ Space and time efficiency are important because they help determine how a progra
 - Heapsort: Placing the highest or smallest value in the root of the tree, and later finding second one by heapifying it.
 ## 4. Hierarchical data
 - Binary Search Tree (BST): A hierarchical data structure that allows for efficient searching and sorting operations. BSTs maintain an ordered structure, with the left subtree of a node containing keys smaller than the node's key, and the right subtree containing keys greater than the node's key.
-  [Project Screenshot!]()
+  [Project Screenshot!](assets/2024-12-23191455.png)
 - AVL tree: A self-balancing binary search tree that maintains balance through rotations and modifications. AVL trees ensure that the heights of subtrees differ by at most one.
 - 2-3 tree: A balanced tree that has a worst case time-complexity of O(Log(N)) for operations such as search, insertion, and deletion.
 - Red-black tree: A tree that requires fixes if the parent of a new node is red, as this might violate the Red Property.
