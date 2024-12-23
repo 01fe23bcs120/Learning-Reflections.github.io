@@ -5,7 +5,7 @@
 - Order of Growth: A way to approximate how long it takes to run a computer program as the size of its input increases.
 ## Why are they important? 
 Space and time efficiency are important because they help determine how a program will perform and how many resources it will consume.Space and time efficiency are represented using asymptotic notations like Big O, Theta, and Omega. These notations describe the upper, tight, and lower bounds of an algorithm's growth rate. When analyzing an algorithm, it's common to consider the worst case scenario.
-## 2. Nature of Problem
+## 2. Nature of Problem ##
 - Recursion: Characterized by recurrence or repetition.  
 - Iteration: The act of repeating a process with the aim of approaching a desired goal, target or result.  
 - BackTracking: Removing the present solution to a problem if it is inadequate or unsuitable, going back (Backtracking), and trying a different approach.
