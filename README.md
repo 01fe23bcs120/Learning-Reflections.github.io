@@ -23,6 +23,7 @@ Space and time efficiency are important because they help determine how a progra
   ## 5. Range Queries
 - Fenwick Tree: Helps in calculating sum of elements in very less time, it uses concept of isolating last bit.  
 - Segment Tree: Information is stored in terms of intervals.
+- Sparse Table: Sparse table concept is used for fast queries on a set of static data (elements do not change). It does preprocessing so that the queries can be answered efficiently.
   ## 6. Graph Algorithms
 - Depth First Search(DFS): It traverses till the dead end and backtracks.  
 - Breadth First Search(BFS): It traverses first its neighbouring nodes then moves to next level.  
