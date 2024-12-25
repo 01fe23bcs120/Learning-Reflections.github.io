@@ -1,4 +1,3 @@
-# Course Learning Reflections
 ## 1. Foundation
 - Time Complexity: How fast an algorithm runs.  
 - Space Complexity: Extra space the algorithm requires.   
@@ -15,6 +14,9 @@ Space and time efficiency are important because they help determine how a progra
 - Mergesort: Split the list into simplest parts and sort them, and later combine them.  
 - Quicksort: Considering a pivotal entry and placing it to its correct position.  
 - Heapsort: Placing the highest or smallest value in the root of the tree, and later finding second one by heapifying it.
+- Bubblesort: It is the brute force approach for sorting.
+- Insertionsort: Insertion sort scans the sorted part to find the correct position to place the element.
+- Selectionsort: Selection sort scans the unsorted part to find the minimum element.
 
 ## 4. Hierarchical data
 - Binary Search Tree (BST): A hierarchical data structure that allows for efficient searching and sorting operations. BSTs maintain an ordered structure, with the left subtree of a node containing keys smaller than the node's key, and the right subtree containing keys greater than the node's key.
