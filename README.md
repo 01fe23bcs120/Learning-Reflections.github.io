@@ -32,6 +32,7 @@ Space and time efficiency are important because they help determine how a progra
 - Sparse Table: Sparse table concept is used for fast queries on a set of static data (elements do not change). It does preprocessing so that the queries can be answered efficiently.
 
 ## 6. Graph Algorithms
+- Graph is a  collection of nodes (vertices) and edges, where edges connect nodes.
 - Depth First Search(DFS): It traverses till the dead end and backtracks.  
 - Breadth First Search(BFS): It traverses first its neighbouring nodes then moves to next level.  
 - Prim and Kruskal: It helps in finding minimum spanning tree of a given graph.  
